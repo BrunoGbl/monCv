@@ -1,0 +1,55 @@
+/* Mon cv étant blanc c'est plus facile pour moi de travailler sur du noir */
+body {
+    background-color: black;
+}
+
+.premdiv {
+    background-color: white;
+    width: 850px;
+}
+
+/* MES CLASSES */
+
+/* Pour l'entête bleu */
+.entete {
+    background-color: aqua;
+    height: 250px;
+    
+}
+
+/* Pour le cadre blanc dans l'entête */
+.cadre {
+    background-color: white;
+    text-align: center;
+    width: 300px;
+    height:120px;
+}
+
+/* Tout les texte en majuscule Hormis l'entête */
+.title {
+    font-size: 12px;
+}
+
+/* zone 1 */
+.z1 {
+    
+}
+/* Block en bas en droite du CV */
+.zoneblock {
+    background-color: aqua;
+    color:white;
+}
+
+/* Pour éviter au max le CSS dans le HTML */
+.gras {
+    font-weight: bold;
+}
+
+/* Pied de page coloré */
+.pdp {
+    background-color: aqua;
+}
+/* pour enlever les puces sur certain li */
+.nopuce {
+    list-style: none;
+}
